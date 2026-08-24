@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2",
+    "name": "Tokyo",
+    "country": "JP",
+    "latitude": 35.6762,
+    "longitude": 139.6503
+  },
+  {
+    "id": "3",
+    "name": "London",
+    "country": "GB",
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  },
+  {
+    "id": "mt5nl9cr5vnqu",
+    "name": "Paris",
+    "country": "FR",
+    "latitude": 48.85341,
+    "longitude": 2.3488
+  }
+]
